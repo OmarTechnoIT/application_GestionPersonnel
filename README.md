@@ -19,7 +19,7 @@ Le projet a été développé dans le cadre de mes travaux en développement log
 ## 🧰 Technologies utilisées
 - Embarcadero Delphi XE7
 - Windows 10 / 11
-- Base de données locale (selon version du projet)
+- Base de données locale 
 
 ---
 
