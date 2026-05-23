@@ -24,5 +24,3 @@ Le projet a été développé dans le cadre de mes travaux en développement log
 ---
 
 ## 🖥️ Captures d’écran
-Ajoute tes images dans un dossier `/screenshots`
-
